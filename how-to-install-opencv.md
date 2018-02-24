@@ -1,0 +1,3 @@
+# How to install opencv
+
+[安装教程](https://docs.opencv.org/master/d5/de5/tutorial_py_setup_in_windows.html)
